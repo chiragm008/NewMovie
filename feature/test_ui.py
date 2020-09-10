@@ -37,6 +37,7 @@ def test_countries(test_setup):
     driver.find_element_by_xpath("//input[@id='searchField']").send_keys("america")
     driver.find_element_by_xpath("//i[@class='fas fa-search']").click()
     driver.find_element_by_xpath("//div[contains(text(),'United States of America')]").click()
+    print("\n", driver.current_url)
     data = driver.find_element_by_tag_name("input").get_attribute("value")
     assert data == "america"
 
@@ -45,6 +46,7 @@ def test_cities(test_setup):
     driver.find_element_by_xpath("//span[contains(text(),'angular-starter')]").click()
     driver.find_element_by_xpath("//h5[contains(text(),'Cities')]").click()
     driver.find_element_by_xpath("//div[contains(text(),'Tirana')]").click()
+    print("\n", driver.current_url)
     data = driver.find_element_by_tag_name("input").get_attribute("value")
     assert data == ""
 
@@ -55,6 +57,7 @@ def test_movies(test_setup):
     driver.find_element_by_xpath("//input[@id='searchField']").send_keys("africa")
     driver.find_element_by_xpath("//i[@class='fas fa-search']").click()
     driver.find_element_by_xpath("//div[contains(text(),'Africa Screams')]").click()
+    print("\n", driver.current_url)
     data = driver.find_element_by_tag_name("input").get_attribute("value")
     assert data == "africa"
 
@@ -65,6 +68,7 @@ def test_shows(test_setup):
     driver.find_element_by_xpath("//input[@id='searchField']").send_keys("bonanza")
     driver.find_element_by_xpath("//i[@class='fas fa-search']").click()
     driver.find_element_by_xpath("//div[contains(text(),'Bonanza')]").click()
+    print("\n", driver.current_url)
     data = driver.find_element_by_tag_name("input").get_attribute("value")
     assert data == "bonanza"
 
@@ -75,5 +79,6 @@ def test_continent(test_setup):
     driver.find_element_by_xpath("//input[@id='searchField']").send_keys("asia")
     driver.find_element_by_xpath("//i[@class='fas fa-search']").click()
     driver.find_element_by_xpath("//div[contains(text(),'Asia')]").click()
+    print("\n", driver.current_url)
     data = driver.find_element_by_tag_name("input").get_attribute("value")
     assert data == "asia"
