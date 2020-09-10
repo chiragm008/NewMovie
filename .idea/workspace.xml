@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bb425d89-963e-4578-a8c2-3641f0dd7dc5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1dpLqv0MivMm2UMA5OxYLjkTt6v" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mindfire\PycharmProjects\HybridALL\feature" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.pytest for test_ui">
+    <configuration name="pytest for test_ui" type="tests" factoryName="py.test" temporary="true">
+      <module name="HybridALL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/feature" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_ui&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_nhapi.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="HybridALL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/feature/test_nhapi.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.pytest for test_ui" />
+      <item itemvalue="Python tests.pytest in test_nhapi.py" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest for test_ui" />
+        <item itemvalue="Python tests.pytest in test_nhapi.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb425d89-963e-4578-a8c2-3641f0dd7dc5" name="Default Changelist" comment="" />
+      <created>1593117281693</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593117281693</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596291572500">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1596291572500" />
+    <state x="438" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593509402599">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="438" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1593509402599" />
+    <state x="463" y="68" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1593536626788">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="68" key="#com.intellij.ide.macro.MacrosDialog/0.0.1366.728@0.0.1366.728" timestamp="1593536626788" />
+    <state x="363" y="99" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1596528243984">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="99" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1596528243984" />
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599739681126">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1599739681126" />
+    <state x="550" y="113" key="EnvironmentVariablesDialog" timestamp="1593118829823">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="550" y="113" key="EnvironmentVariablesDialog/0.0.1366.728@0.0.1366.728" timestamp="1593118829823" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1599770423362">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1599770423362" />
+    <state x="560" y="260" key="Github.ShareDialog" timestamp="1599770405997">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="560" y="260" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1599770405997" />
+    <state width="1344" height="23" key="GridCell.Tab.0.bottom" timestamp="1599766176876">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="23" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599766176876" />
+    <state width="1344" height="23" key="GridCell.Tab.0.center" timestamp="1599766176876">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="23" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599766176876" />
+    <state width="1344" height="23" key="GridCell.Tab.0.left" timestamp="1599766176875">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="23" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599766176875" />
+    <state width="1344" height="23" key="GridCell.Tab.0.right" timestamp="1599766176876">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="23" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599766176876" />
+    <state x="263" y="98" key="IDE.errors.dialog" timestamp="1593585281606">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="263" y="98" key="IDE.errors.dialog/0.0.1366.728@0.0.1366.728" timestamp="1593585281606" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1596525038423">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1596525038423" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1599733677916">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1599733677916" />
+    <state x="487" y="224" key="git4idea.rebase.GitRebaseDialog" timestamp="1593896546038">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="487" y="224" key="git4idea.rebase.GitRebaseDialog/0.0.1366.728@0.0.1366.728" timestamp="1593896546038" />
+    <state x="469" y="257" key="git4idea.ui.GitResetDialog" timestamp="1593896720175">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="469" y="257" key="git4idea.ui.GitResetDialog/0.0.1366.728@0.0.1366.728" timestamp="1593896720175" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1596479445217">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1596479445217" />
+  </component>
+</project>
