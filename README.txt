@@ -5,3 +5,7 @@ STEPS:
 2. Execute the following command: pytest -v --html=report.html
     It will execute all the scripts starting with name "test_" and all the test case method inside it starting with "test_".
     It will also generate a report with the name "report.html" and will be saved in the same location.
+
+Command to run the API tests        > pytest -v --html=report.html test_API.py
+Command to run the UI tests         > pytest -v --html=report.html test_UI.py
+Command to run all the tests        > pytest -v --html=report.html

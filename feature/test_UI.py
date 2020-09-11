@@ -15,8 +15,14 @@ def config():
 @pytest.fixture(scope='session')
 def test_setup(config):
     global driver
+
+    chrome_opt = webdriver.ChromeOptions()
+    chrome_opt.add_argument('--disable-gpu')
+    path = r'C:\Users\mindfire\PycharmProjects\HybridALL\drivers\chromedriver.exe'
+
     if config['browser'] == 'chrome':
-        driver = webdriver.Chrome(r'C:\Users\mindfire\PycharmProjects\HybridALL\drivers\chromedriver.exe')
+        driver = webdriver.Chrome(executable_path=path, options=chrome_opt)
+        #driver = webdriver.Chrome(r'C:\Users\mindfire\PycharmProjects\HybridALL\drivers\chromedriver.exe')
     elif config['browser'] == 'ie':
         driver = webdriver.Ie(r'C:\Users\mindfire\PycharmProjects\HybridALL\drivers\IEDriverServer.exe')
     else:

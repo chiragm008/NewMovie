@@ -3,7 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="bb425d89-963e-4578-a8c2-3641f0dd7dc5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feature/test_ui.py" beforeDir="false" afterPath="$PROJECT_DIR$/feature/test_ui.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReadMe.txt" beforeDir="false" afterPath="$PROJECT_DIR$/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feature/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/feature/report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feature/test_nhapi.py" beforeDir="false" afterPath="$PROJECT_DIR$/feature/test_API.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feature/test_ui.py" beforeDir="false" afterPath="$PROJECT_DIR$/feature/test_UI.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,11 +53,11 @@
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_ui&quot;" />
+      <option name="_new_target" value="&quot;feature.test_UI&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest in test_nhapi.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest in test_API.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="HybridALL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -66,18 +69,18 @@
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/feature/test_nhapi.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/feature/test_API.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <list>
       <item itemvalue="Python tests.pytest for test_ui" />
-      <item itemvalue="Python tests.pytest in test_nhapi.py" />
+      <item itemvalue="Python tests.pytest in test_API.py" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python tests.pytest for test_ui" />
-        <item itemvalue="Python tests.pytest in test_nhapi.py" />
+        <item itemvalue="Python tests.pytest in test_API.py" />
       </list>
     </recent_temporary>
   </component>
@@ -93,7 +96,19 @@
       <option name="presentableId" value="Default" />
       <updated>1593117281693</updated>
     </task>
+    <task id="LOCAL-00001" summary="test commit">
+      <created>1599771481046</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599771481046</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="test commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596291572500">
@@ -116,6 +131,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1599739681126" />
+    <state x="310" y="0" key="CommitChangelistDialog2" timestamp="1599771479271">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1599771479271" />
     <state x="550" y="113" key="EnvironmentVariablesDialog" timestamp="1593118829823">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -132,22 +151,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="478" y="61" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1599770630774" />
-    <state width="1344" height="173" key="GridCell.Tab.0.bottom" timestamp="1599771139600">
+    <state width="1344" height="24" key="GridCell.Tab.0.bottom" timestamp="1599771323853">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="173" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599771139600" />
-    <state width="1344" height="173" key="GridCell.Tab.0.center" timestamp="1599771139599">
+    <state width="1344" height="24" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599771323853" />
+    <state width="1344" height="24" key="GridCell.Tab.0.center" timestamp="1599771323853">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="173" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599771139599" />
-    <state width="1344" height="173" key="GridCell.Tab.0.left" timestamp="1599771139599">
+    <state width="1344" height="24" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599771323853" />
+    <state width="1344" height="24" key="GridCell.Tab.0.left" timestamp="1599771323853">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="173" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599771139599" />
-    <state width="1344" height="173" key="GridCell.Tab.0.right" timestamp="1599771139599">
+    <state width="1344" height="24" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599771323853" />
+    <state width="1344" height="24" key="GridCell.Tab.0.right" timestamp="1599771323853">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="173" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599771139599" />
+    <state width="1344" height="24" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599771323853" />
     <state x="263" y="98" key="IDE.errors.dialog" timestamp="1593585281606">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -160,6 +179,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1599733677916" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1599771531683">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1599771531683" />
     <state x="487" y="224" key="git4idea.rebase.GitRebaseDialog" timestamp="1593896546038">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
